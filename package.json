@@ -1,0 +1,22 @@
+{
+  "name": "tiny-blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangvanthanh/tiny-blockchain.git"
+  },
+  "author": "Dang Van Thanh <chieuhue@gmail.com> (dangthanh.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dangvanthanh/tiny-blockchain/issues"
+  },
+  "homepage": "https://github.com/dangvanthanh/tiny-blockchain#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
