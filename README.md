@@ -10,16 +10,21 @@
 
 ## Install
 
-```
-  npm install
+```shell
+$ npm install
 ```
 
 ## Usage
 
-```
-  npm run start
+```shell
+$ npm run start
 ```
 
 ## Help & Community
 
 Join me. if you run into issues or have questions. I love talking to you!
+
+
+## Contributors
+
+- [Chau Nguyen](https://github.com/remynguyen96)
